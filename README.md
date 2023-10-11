@@ -8,9 +8,9 @@
 - [x] [Punjabi](/MultilingualStemmer/Languages/Punjabi/README.md)
 - [x] [Urdu](/MultilingualStemmer/Languages/Urdu/README.md)
 - [x] [Bengali](/MultilingualStemmer/Languages/Bengali/README.md)
-- [ ] Turkish
+- [X] Turkish
 - [ ] Ukrainian
-- [ ] Telugu
+- [X] Telugu
 - [ ] Portuguese
 - [ ] Spanish
 - [ ] Nepali
