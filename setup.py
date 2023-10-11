@@ -5,6 +5,6 @@ setup(
     version="0.1",
     packages=find_packages(include=['MultilingualStemmer', 'MultilingualStemmer.*']),
     install_requires=[
-
+        "bangla-stemmer==1.0"
     ],
 )
