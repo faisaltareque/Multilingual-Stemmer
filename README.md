@@ -7,7 +7,7 @@
 - [x] [Marathi](/MultilingualStemmer/Languages/Marathi/README.md)
 - [x] [Punjabi](/MultilingualStemmer/Languages/Punjabi/README.md)
 - [x] [Urdu](/MultilingualStemmer/Languages/Urdu/README.md)
-- [ ] Bengali
+- [x] [Bengali](/MultilingualStemmer/Languages/Bengali/README.md)
 - [ ] Turkish
 - [ ] Ukrainian
 - [ ] Telugu
