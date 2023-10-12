@@ -13,7 +13,7 @@
 - [X] [Telugu](/MultilingualStemmer/Languages/Telugu/README.md)
 - [ ] Portuguese
 - [ ] Spanish
-- [ ] Nepali
+- [x] [Nepali](/MultilingualStemmer/Languages/Nepali/README.md)
 - [ ] Arabic
 - [ ] Russian
 - [X] [Persian](/MultilingualStemmer/Languages/Persian/README.md)
