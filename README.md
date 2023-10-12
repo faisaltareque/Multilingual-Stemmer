@@ -1,6 +1,6 @@
 # Multilingual-Stemmer
 
-### Avilable Languages
+### Available Languages
 
 - [x] [Gujarati](/MultilingualStemmer/Languages/Gujarati/README.md)
 - [x] [Hindi](/MultilingualStemmer/Languages/Hindi/README.md)
