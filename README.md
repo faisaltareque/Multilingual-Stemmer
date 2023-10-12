@@ -11,15 +11,15 @@
 - [X] [Turkish](/MultilingualStemmer/Languages/Turkish/README.md)
 - [x] [Ukrainian](/MultilingualStemmer/Languages/Ukrainian/README.md)
 - [X] [Telugu](/MultilingualStemmer/Languages/Telugu/README.md)
-- [ ] Portuguese
-- [ ] Spanish
+- [x] [Portuguese](/MultilingualStemmer/Languages/Portuguese/README.md)
+- [x] [Spanish](/MultilingualStemmer/Languages/Spanish/README.md)
 - [x] [Nepali](/MultilingualStemmer/Languages/Nepali/README.md)
-- [ ] Arabic
-- [ ] Russian
+- [x] [Arabic](/MultilingualStemmer/Languages/Arabic/README.md)
+- [x] [Russian](/MultilingualStemmer/Languages/Russian/README.md)
 - [X] [Persian](/MultilingualStemmer/Languages/Persian/README.md)
-- [ ] English
+- [x] [English](/MultilingualStemmer/Languages/English/README.md)
 - [X] [Tamil](/MultilingualStemmer/Languages/Tamil/README.md)
-- [ ] French
+- [x] [French](/MultilingualStemmer/Languages/French/README.md)
 - [x] [Indonesian](/MultilingualStemmer/Languages/Indonesian/README.md)
 
 
