@@ -16,7 +16,7 @@
 - [ ] Nepali
 - [ ] Arabic
 - [ ] Russian
-- [ ] Persian
+- [X] [Persian](/MultilingualStemmer/Languages/Persian/README.md)
 - [ ] English
 - [ ] Tamil
 - [ ] French
