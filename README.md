@@ -9,7 +9,7 @@
 - [x] [Urdu](/MultilingualStemmer/Languages/Urdu/README.md)
 - [x] [Bengali](/MultilingualStemmer/Languages/Bengali/README.md)
 - [X] [Turkish](/MultilingualStemmer/Languages/Turkish/README.md)
-- [ ] Ukrainian
+- [x] [Ukrainian](/MultilingualStemmer/Languages/Ukrainian/README.md)
 - [X] [Telugu](/MultilingualStemmer/Languages/Telugu/README.md)
 - [ ] Portuguese
 - [ ] Spanish
