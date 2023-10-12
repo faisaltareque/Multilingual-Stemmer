@@ -7,8 +7,9 @@ setup(
     install_requires=[
         "bangla-stemmer==1.0",
         "TurkishStemmer==1.3",
-        "PersianStemmer==1.0.0"
-        "nepali-stemmer==0.0.2"
-        "importlib-resources==1.4.0"
+        "PersianStemmer==1.0.0",
+        "nepali-stemmer==0.0.2",
+        "importlib-resources==1.4.0",
+        "snowballstemmer==2.2.0"
     ],
 )

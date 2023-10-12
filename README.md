@@ -18,8 +18,8 @@
 - [ ] Russian
 - [X] [Persian](/MultilingualStemmer/Languages/Persian/README.md)
 - [ ] English
-- [ ] Tamil
+- [X] [Tamil](/MultilingualStemmer/Languages/Tamil/README.md)
 - [ ] French
-- [ ] Indonesian
+- [x] [Indonesian](/MultilingualStemmer/Languages/Indonesian/README.md)
 
 
