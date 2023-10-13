@@ -1,6 +1,6 @@
 from snowballstemmer import PortugueseStemmer as PS
 
-class IndonesianStemmer(PS):
+class PortugueseStemmer(PS):
     def __init__(self):
         super().__init__()
 
