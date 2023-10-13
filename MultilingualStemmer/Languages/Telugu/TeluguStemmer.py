@@ -43,10 +43,12 @@ def stem(word:str):
     run_tagger_script()
     te_postags_list = read_tagger_output()
     lmt.load_lemmatiser_default(current_dir+"/models/telugu.lemma")
-
+    return_stem = ""
     for item in te_postags_list:
         word_tag = item.split('\t')
         lemma = lmt.lemmatise_word(word_tag[0], word_tag[1])
         word, lemma_corr, pos_tag = tv.massage_lemma(word_tag[0], lemma, word_tag[1])
         # print(word, lemma_corr, pos_tag)
-        print(lemma_corr)
+        # print(lemma_corr)
+        return_stem = return_stem + lemma_corr + " "
+    return return_stem.strip()
