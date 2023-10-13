@@ -10,6 +10,7 @@ setup(
         "PersianStemmer==1.0.0",
         "nepali-stemmer==0.0.2",
         "importlib-resources==1.4.0",
-        "snowballstemmer==2.2.0"
+        "snowballstemmer==2.2.0",
+        "nltk==3.8.1"
     ],
 )
