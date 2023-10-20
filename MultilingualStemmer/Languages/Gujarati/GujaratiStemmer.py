@@ -1,5 +1,5 @@
 from .tokenizer import SentenceTokenizer
-from .utils.stopwords import *
+from .stopwords import *
 from .preprocessing import Preprocessor
 
 import re

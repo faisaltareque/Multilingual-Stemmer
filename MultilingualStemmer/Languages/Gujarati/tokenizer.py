@@ -1,4 +1,4 @@
-from .utils.stopwords import prose_stopwords, poetry_stopwords
+from .stopwords import prose_stopwords, poetry_stopwords
 import re
 
 def WordTokenizer(data, corpus='poetry', keep_punctuations=True, keep_stopwords = True):
