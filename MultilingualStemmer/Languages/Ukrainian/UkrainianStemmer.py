@@ -1,7 +1,7 @@
 import re
 
 
-class UkrainianStemmer():
+class UkrStemmer():
     def __init__(self, word):
         self.word = word
         self.vowel = r'аеиоуюяіїє'  # http://uk.wikipedia.org/wiki/Голосний_звук
@@ -64,3 +64,10 @@ class UkrainianStemmer():
 
             stem = start + self.RV
         return stem
+    
+class UkrainianStemmer():
+    def __init__(self):
+        pass
+
+    def stem(self, word):
+        return UkrStemmer(word).stem()

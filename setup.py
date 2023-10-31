@@ -4,6 +4,8 @@ setup(
     name="MultilingualStemmer",
     version="0.1",
     packages=find_packages(include=['MultilingualStemmer', 'MultilingualStemmer.*']),
+    include_package_data=True,
+    package_data={'': ['MultilingualStemmer/Languages/*']},
     install_requires=[
         "bangla-stemmer==1.0",
         "TurkishStemmer==1.3",

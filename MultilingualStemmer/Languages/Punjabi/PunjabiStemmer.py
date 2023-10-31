@@ -44,7 +44,8 @@ class PunjabiStemmer:
         tag.reverse()
         dic_punj = {}
    
-        for word in text.split():
+        for word in text.split()[0]:
+            final = word
             flag = 0
             for L in tag:
                 if flag == 1:
@@ -54,9 +55,11 @@ class PunjabiStemmer:
                         if word.endswith(suf):
                             word1 = self.rreplace(word,self.gen_replacement(suf,L), '', 1)
                             dic_punj[word] = word1
+                            final = word1
                             flag = 1
                             break
             if flag == 0:
                 #for word length less than 3 (stop words)
                 dic_punj[word] = word
-        return dic_punj
+                final = word
+        return final
